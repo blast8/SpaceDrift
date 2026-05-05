@@ -14,6 +14,7 @@
 		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
+<<<<<<< Updated upstream
 		},
 		{
 			"Name": "KibibyteLabs",
@@ -32,6 +33,8 @@
 			"Name": "CPPGenerator",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/c5c1ca37-94f8-4c80-a124-f39b36b8b56f"
+=======
+>>>>>>> Stashed changes
 		}
 	]
 }
